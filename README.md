@@ -534,9 +534,8 @@ Contribuições são bem-vindas! Para contribuir:
 ## 📞 Suporte
 
 Para dúvidas, bugs ou sugestões:
-- 📧 Email: segurança@example.com
+- 📧 Email: darkbyte234@gmail.com
 - 🐛 Issues: https://github.com/seu-repo/cyberguard/issues
-- 💬 Discussions: https://github.com/seu-repo/cyberguard/discussions
 
 ---
 
