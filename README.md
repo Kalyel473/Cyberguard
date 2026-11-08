@@ -93,7 +93,7 @@
 
 ### 1. Clone ou baixe a ferramenta
 ```bash
-git clone https://github.com/seu-repo/cyberguard.git
+git clone https://github.com/kalyel473/cyberguard.git
 cd cyberguard
 ```
 
